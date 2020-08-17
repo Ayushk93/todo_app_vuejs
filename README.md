@@ -1,7 +1,8 @@
-# vue-app1
+# ToDo App
 
-## Project setup
+## Local Project setup
 ```
+clone the repo
 npm install
 ```
 
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
